@@ -1,2 +1,1 @@
-# google-prompting-essentials
-Google Prompting Essentials
+# Google Prompting Essentials
