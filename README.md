@@ -57,3 +57,11 @@ Some popular delimiters include:
 - **[Looker Studio:](https://cloud.google.com/looker-studio?hl=en)** Access a robust library of report templates, easily explore underlying data through prebuilt data connectors, and embed final reports into any web page or intranet to share your findings with the audience that needs them most.
 
 - **[BigQuery data insights:](https://cloud.google.com/bigquery/docs/data-insights)** Uncover patterns, assess data quality, and perform statistical analysis by generating automated queries based on your information’s metadata.
+
+### Prompt chaining
+
+- **Chain-of-thought prompting** you can ask the tool to retrace its path from input to output, listing out the reasoning behind its response step by step.
+- **Tree-of-thought prompting** Tree-of-thought prompting can help you compare many possible solutions at once and evaluate which will be most useful.
+
+And in some cases, combining tree-of-thought with chain-of-thought can give your prompting the boost it needs.  
+When you need insight on a tool’s reasoning and other options to take within that reasoning, the two techniques can work perfectly together.
