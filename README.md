@@ -65,3 +65,9 @@ Some popular delimiters include:
 
 And in some cases, combining tree-of-thought with chain-of-thought can give your prompting the boost it needs.  
 When you need insight on a tool’s reasoning and other options to take within that reasoning, the two techniques can work perfectly together.
+
+### Using meta-prompting to improve and generate new prompts
+
+With meta-prompting, you can enlist gen AI’s help to design the perfect prompt, or take one you’ve already written to the next level.
+And with power-up strategies to guide your meta-prompting, you’ll know just what to do the next time you’re having trouble building your prompt into the best it can be.
+In prompt design, meta-prompting is your roadmap to a successful output.
