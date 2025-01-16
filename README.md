@@ -71,3 +71,10 @@ When you need insight on a tool’s reasoning and other options to take within t
 With meta-prompting, you can enlist gen AI’s help to design the perfect prompt, or take one you’ve already written to the next level.
 And with power-up strategies to guide your meta-prompting, you’ll know just what to do the next time you’re having trouble building your prompt into the best it can be.
 In prompt design, meta-prompting is your roadmap to a successful output.
+
+### More AI Agents Ideas
+
+- [One Useful Thing](https://www.oneusefulthing.org/)
+- [Langchain](https://www.analyticsvidhya.com/blog/2024/07/langchains-agent-framework/)
+- [Google Vertex AI Agents](https://cloud.google.com/dialogflow/cx/docs)
+- [Gems](https://blog.google/products/gemini/google-gems-tips/)
