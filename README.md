@@ -78,3 +78,7 @@ In prompt design, meta-prompting is your roadmap to a successful output.
 - [Langchain](https://www.analyticsvidhya.com/blog/2024/07/langchains-agent-framework/)
 - [Google Vertex AI Agents](https://cloud.google.com/dialogflow/cx/docs)
 - [Gems](https://blog.google/products/gemini/google-gems-tips/)
+
+### [Certificate of Completion](https://coursera.org/share/489b8526d10e772d38f397ac50029e91)
+
+### [Credly Badge](https://www.credly.com/badges/43c7ad0a-29f1-4b13-8730-a0788d6c2975)
